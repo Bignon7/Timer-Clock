@@ -14,9 +14,10 @@ body {
     font-family:'Courier New', Courier, monospace;
     color: white;
 }
-h1 {
-    font-size:1.1em;
+h2 {
+    font-size:1.2em;
     padding-bottom: 15px;
+    white-space:nowrap;
 }
 .middle {
     display: flex;
